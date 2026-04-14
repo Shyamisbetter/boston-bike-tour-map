@@ -88,5 +88,5 @@ export const DATA_URLS = {
   bikeInfra:
     "https://d2xsxph8kpxj0f.cloudfront.net/310519663495221450/ifRMgFX8HpGVkitF55JDX8/bike_infra_3adaaeb0.json",
   routes:
-    "https://d2xsxph8kpxj0f.cloudfront.net/310519663495221450/ifRMgFX8HpGVkitF55JDX8/routes_b847df19.json",
+    "https://d2xsxph8kpxj0f.cloudfront.net/310519663495221450/ifRMgFX8HpGVkitF55JDX8/routes_c225dcb9.json",
 };
